@@ -1,0 +1,13 @@
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\BEAssignment.Core.dll.config
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\BEAssignment.Core.dll
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\BEAssignment.Core.pdb
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\EntityFramework.dll
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\Ninject.dll
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\Operation.dll
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\EntityFramework.xml
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\bin\Debug\Ninject.xml
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\obj\Debug\BEAssignment.Core.csprojResolveAssemblyReference.cache
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\obj\Debug\BEAssignment.Core.dll
+C:\projects\mar-d.beassignment-web-api\BEAssignment.Core\obj\Debug\BEAssignment.Core.pdb
