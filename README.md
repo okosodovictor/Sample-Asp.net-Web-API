@@ -33,7 +33,7 @@ It has InvoiceRepository class which implements IInvoiceRepository interface and
 Command: pm> update-database –verbose.
 The command will create the database and create the tables for the solution. Finally run the solution by clicking on run by selecting either Google Chrome or any browser convenient for you.
 
-ER Diagram: 
+ERD Diagram: 
  
 https://docs.google.com/document/d/1yq7QkHdtRFPOWycK3cMg5OkRj7pMth0eC_SLJqP602A/edit?usp=sharing
  
