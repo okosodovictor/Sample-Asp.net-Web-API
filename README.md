@@ -2,7 +2,7 @@
 Sample RESTful Asp.net Web Api with demonstration of Onion Achitecture and security implementation with JWT.
 
 This Project is a RESTful web services that exposes data related to customer invoices to Acme Cable TV Company. 
-This solution called BEAssignment is a RESTful Api build with Microsoft Asp.Net web Api and C# language. 
+This solution is a RESTful Api build with Microsoft Asp.Net web Api and C# language. 
 
 Tools Used:
 1.	 IDE:  used is Visual studio 2015.
