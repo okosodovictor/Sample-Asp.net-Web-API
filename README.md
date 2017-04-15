@@ -6,7 +6,7 @@ This Project is a RESTful web services that exposes data related to customer inv
 This solution is a RESTful Api build with Microsoft Asp.Net web Api and C# language. 
 
 Tools Used:
-1.	 IDE:  used is Visual studio 2015.
+1.	 IDE:  used is Visual studio 2017.
 2.	 Database: Microsoft SQL server. 
 3.	Framework/ library: Entity framework i.e the object relational mapper, Ninject, Operation etc.
 
