@@ -1,4 +1,4 @@
-# Sample Asp.net-Web-API Project with JWT athorization flow
+# Sample Asp.net-Web-API Project with JWT authorization flow
 
 Sample RESTful Asp.net Web Api with demonstration of Onion Achitecture and security implementation with JWT.
 
