@@ -1,4 +1,5 @@
-# Sample-Asp.net-Web-API
+# Sample Asp.net-Web-API Project with JWT athorization flow
+
 Sample RESTful Asp.net Web Api with demonstration of Onion Achitecture and security implementation with JWT.
 
 This Project is a RESTful web services that exposes data related to customer invoices to Acme Cable TV Company. 
