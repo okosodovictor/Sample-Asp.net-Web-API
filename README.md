@@ -37,5 +37,3 @@ ERD Diagram:
  
 https://docs.google.com/document/d/1yq7QkHdtRFPOWycK3cMg5OkRj7pMth0eC_SLJqP602A/edit?usp=sharing
  
-
-1
